@@ -1,0 +1,16 @@
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.exe
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.deps.json
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.runtimeconfig.json
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.dll
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\ref\HeartRateTracker.dll
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\bin\Debug\net5.0\HeartRateTracker.pdb
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.dll
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\ref\HeartRateTracker.dll
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.pdb
+C:\Users\sheeh\source\repos\HeartRateTracker\HeartRateTracker\obj\Debug\net5.0\HeartRateTracker.genruntimeconfig.cache
